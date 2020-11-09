@@ -1,0 +1,11 @@
+export const baseURL = 'http://59.110.226.77:3000/api'
+export const checkAuthURL = '/api/checkAuth'
+export const registerURL = '/api/register'
+export const loginURL = '/api/login'
+export const tokenURL = '/api/checkToken'
+export const g2URL = 'https://raw.githubusercontent.com/antvis/G2/master/examples/data/life.json'
+export const g6URL = 'https://gw.alipayobjects.com/os/antvdemo/assets/data/algorithm-category.json'
+export const addURL = `${baseURL}/shopcar/add`
+export const delURL = `${baseURL}/shopcar/del`
+export const updateURL = `${baseURL}/shopcar/update`
+export const getURL = `${baseURL}/shopcar/getCar`
